@@ -1,0 +1,1 @@
+This is a piano which can be play by both mouse and key-board.
